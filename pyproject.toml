@@ -5,7 +5,7 @@ description = ""
 authors = ["Your Name <you@example.com>"]
 
 [tool.poetry.dependencies]
-python = ">=3.10.0,<3.11"
+python = ">=3.10.0,<3.13"
 streamlit = "^1.27.2"
 joblib = "1.4.2"
 scikit-learn = "1.5.2"
