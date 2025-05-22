@@ -6,7 +6,7 @@ authors = ["Jason Yee <446031+jwsy@users.noreply.github.com>"]
 package-mode = false
 
 [tool.poetry.dependencies]
-python = ">=3.10.0,<3.13"
+python = ">=3.10.0,<3.14"
 streamlit = "^1.27.2"
 joblib = "1.4.2"
 scikit-learn = "1.5.2"
